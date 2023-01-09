@@ -39,6 +39,7 @@ public class Main {
 		 */
 		
 		System.out.println("Hello hello");
+		System.out.println("Aku lagi belajar Java");
 		
 		Encapsulations obj = new Encapsulations();
 		obj.changeA(10);
