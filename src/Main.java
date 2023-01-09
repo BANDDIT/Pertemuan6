@@ -38,6 +38,8 @@ public class Main {
 		Overide itu menindih method di class parent dengan method di class anak, jika nama method tersebut sama.
 		 */
 		
+		System.out.println("Hello hello");
+		
 		Encapsulations obj = new Encapsulations();
 		obj.changeA(10);
 		obj.changeA(100);
